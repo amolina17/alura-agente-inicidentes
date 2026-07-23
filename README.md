@@ -152,11 +152,12 @@ También debe habilitarse el puerto TCP 8501 en la red de OCI y en el firewall d
 Agregar aquí la URL pública y la captura final:
 
 ```text
-http://IP_PUBLICA_OCI:8501
+http://163.192.132.89:8501/
 ```
 
-```markdown
-![Aplicación desplegada en OCI](screenshots/aplicacion_oci.png)
+## Evidencia del funcionamiento en OCI
+
+![Aplicación desplegada en OCI](screenshots/Aplicacion_OCI.png)
 ```
 
 ## Seguridad
